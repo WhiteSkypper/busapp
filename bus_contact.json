@@ -1,0 +1,316 @@
+{
+    "Amblangoda location" : "Southern",
+    "Amblangoda num" : "091 2 258 233"
+    ,
+    "Angoda location" : "Colombo",
+    "Angoda num" : "011 7 706 320"
+    ,
+    "Akuressa location" : "Southern",
+    "Akuressa num" : "041 2 283 612"
+    ,
+    "Akkaraipattu location" : "Southern",
+    "Akkaraipattu num" : "041 2 283 612"
+    ,
+    "Aluthgama location" : "Kalutara",
+    "Aluthgama num" : "034 2 271 018"
+    ,
+
+    "Ampara location" : "Eastern",
+    "Ampara num" : "063 2 222 091"
+    ,
+    "Anuradhapura location" : "Rajarata",
+    "Anuradhapura num" : "025 2 222 325"
+    ,
+    "Ambalanthota location" : "Southern",
+    "Ambalanthota num" : "047 2 223 281"
+    ,
+    "Avissawella location" : "Colombo",
+    "Avissawella num" : "036 2 222 348"
+    ,
+    "Alawwa location" : "Wayamba",
+    "Alawwa num" : "037 2 278 181"
+    ,
+    "Bibila location" : "Uva",
+    "Bibila num" : "055 2 265 481"
+    ,
+    "Badulla location" : "Uva",
+    "Badulla num" : "055 2 222 281"
+    ,
+    "Balangoda location" : "Sabaragamuwa",
+    "Balangoda num" : "045 2 287 281"
+    ,
+    "Batticaloa location" : "Eastern",
+    "Batticaloa num" : "065 2 222 724"
+    ,
+    "Bandarawela location" : "Uva",
+    "Bandarawela num" : "057 2 222 276"
+    ,
+    "Central Bus stand location" : "Colombo",
+    "Central Bus stand num" : "011 2 329 606"
+    ,
+    "Chilaw location" : "Wayamba",
+    "Chilaw num" : "032 2 222 318"
+    ,
+    "Dehiaththakandiya location" : "Uva",
+    "Dehiaththakandiya num" : "027 2 250 066"
+    ,
+    "Dambulla location" : "Rajarata",
+    "Dambulla num" : "066 2 284 781"
+    ,
+    "Divulapitiya location" : "Gampaha",
+    "Divulapitiya num" : "031 2 246 281"
+    ,
+    "Deraniyagala location" : "Sabaragamuwa",
+    "Deraniyagala num" : "036 2 249 281"
+    ,
+    "Embilipitiya location" : "Sabaragamuwa",
+    "Embilipitiya num" : "047 2 230 281"
+    ,
+    "Galgamuwa location" : "Wayamba",
+    "Galgamuwa num" : "037 2 253 081"
+    ,
+    "Galle location" : "Southern",
+    "Galle num" : "091 2 234 191"
+    ,
+    "Gampaha location" : "Gampaha",
+    "Gampaha num" : "033 2 222 281"
+    ,
+    "Gampola location" : "Nuwara-Eliya",
+    "Gampola num" : "081 4 485 292"
+    ,
+    "Giriulla location" : "Wayamba",
+    "Giriulla num" : "037 2 288 081"
+    ,
+    "Homagama location" : "Colombo",
+    "Homagama num" : "011 7 706 330"
+    ,
+    "Hanguranketha location" : "Nuwara-Eliya",
+    "Hanguranketha num" : "081 2 369 381"
+    ,
+    "Hakmana location" : "Southern",
+    "Hakmana num" : "041 2 268 281"
+    ,
+    "Horowpothana location" : "Rajarata",
+    "Horowpothana num" : "025 2 247 481"
+    ,
+    "Horana location" : "Kalutara",
+    "Horana num" : "034 2 261 095"
+    ,
+    "Hatton location" : "Nuwara-Eliya",
+    "Hatton num" : "051 2 222 283"
+    ,
+    "Jaffna location" : "Northern",
+    "Jaffna num" : "021 2 222 207"
+    ,
+    "Ja-Ela location" : "Gampaha",
+    "Ja-Ela num" : "011 2 236 532"
+    ,
+    "Kesbewa location" : "Colombo",
+    "Kesbewa num" : "011 7 70 63 60"
+    ,
+    "Kebithigollawa location" : "Rajarata",
+    "Kebithigollawa num" : "025 2 29 86 81"
+    ,
+    "Kilinochchi location" : "Rajarata",
+    "Kilinochchi num" : "No Updated"
+    ,
+    "Kirindiwela location" : "Gampaha",
+    "Kirindiwela num" : "033 2 26 72 81"
+    ,
+    "Kelaniya location" : "Gampaha",
+    "Kelaniya num" : "011 2 91 12 51"
+    ,
+    "Kurunegala North location" : "Wayamba",
+    "Kurunegala North num" : "037 2 22 23 20"
+    ,
+    "Kurunegala South location" : "Wayamba",
+    "Kurunegala South num" : "037 2 22 31 51"
+    ,
+    "Kakirawa location" : "Rajarata",
+    "Kakirawa num" : "025 2 26 42 81"
+    ,
+    "Kattankudy location" : "Eastern",
+    "Kattankudy num" : "065 2 24 70 46"
+    ,
+    "Kegalle location" : "Sabaragamuwa",
+    "Kegalle num" : "035 2 23 00 70"
+    ,
+    "Kalawana location" : "Sabaragamuwa",
+    "Kalawana num" : "045 2 24 03 81"
+    ,
+    "Kalmunai location" : "Eastern",
+    "Kalmunai num" : "067 2 22 92 81"
+    ,
+    "Kandy North location" : "Kandy",
+    "Kandy North num" : "081 2 49 91 48"
+    ,
+    "Kanthale location" : "Eastern",
+    "Kanthale num" : "026 2 23 42 81"
+    ,
+    "Koggala location" : "Southern",
+    "Koggala num" : "091 2 28 34 63"
+    ,
+    "Kotmale location" : "Nuwara-Eliya",
+    "Kotmale num" : "051 2 23 32 81"
+    ,
+    "Kuliyapitiya location" : "Wayamba",
+    "Kuliyapitiya num" : "037 2 28 12 81"
+    ,
+    "Kappetipola location" : "Uva",
+    "Kappetipola num" : "057 2 28 00 63"
+    ,
+    "Karayinagar location" : "Northern",
+    "Karayinagar num" : "060 2 21 22 55"
+    ,
+    "Kandy South location" : "Kandy",
+    "Kandy South num" : "081 2 22 45 61"
+    ,
+    "Kalutara location" : "Kalutara",
+    "Kalutara num" : "034 2 22 22 81"
+    ,
+    "Katubadda location" : "Colombo",
+    "Katubadda num" : "011 7 70 63 50"
+    ,
+    "Katharagama location" : "Southern",
+    "Katharagama num" : "047 2 23 52 81"
+    ,
+    "Kadawatha location" : "Gampaha",
+    "Kadawatha num" : "011 2 97 53 04"
+    ,
+    "Mathugama location" : "Kalutara",
+    "Mathugama num" : "034 2 247 282"
+    ,
+    "Maharagama location" : "Colombo",
+    "Maharagama num" : "011 2 85 03 31"
+    ,
+    "Maho location" : "Wayamba",
+    "Maho num" : "037 2 275 281"
+    ,
+    "Mattakkuliya location" : "Colombo",
+    "Mattakkuliya num" : "011 7 70 6420"
+    ,
+    "Mathale location" : "Kandy",
+    "Mathale num" : "066 2 222 281"
+    ,
+    "Meethotamulla location" : "Colombo",
+    "Meethotamulla num" : "011 7 706 410"
+    ,
+    "Mannar location" : "Northern",
+    "Mannar num" : "023 2 222 281"
+    ,
+    "Monaragala location" : "Uva",
+    "Monaragala num" : "055 2 276 181"
+    ,
+    "Moratuwa location" : "Colombo",
+    "Moratuwa num" : "011 7 706 395"
+    ,
+    "Mathara location" : "Southern",
+    "Mathara num" : "041 2 222 281"
+    ,
+    "Muttur location" : "Eastern",
+    "Muttur num" : "026 2 238 281"
+    ,
+    "Mullaithivu location" : "Northern",
+    "Mullaithivu num" : "077 1 058 190"
+    ,
+    "Mawanella location" : "Sabaragamuwa",
+    "Mawanella num" : "035 2 246 121"
+    ,
+    "Mahiyanganaya location" : "Uva",
+    "Mahiyanganaya num" : "055 2 257 281"
+    ,
+    "Negombo location" : "Gampaha",
+    "Negombo num" : "031 2 222 662"
+    ,
+    "Nuwaraeliya location" : "Nuwara-Eliya",
+    "Nuwaraeliya num" : "052 2 222 380"
+    ,
+    "Nikawearatiya location" : "Wayamba",
+    "Nikawearatiya num" : "037 2 260 252"
+    ,
+    "Nittambuwa location" : "Gampaha",
+    "Nittambuwa num" : "033 2 287 281033 2 287 281"
+    ,
+    "Nawalapitiya location" : "Nuwara-Eliya",
+    "Nawalapitiya num" : "054 2 222 284"
+    ,
+    "Polonnaruwa location" : "Rajarata",
+    "Polonnaruwa num" : "027 2 222 381"
+    ,
+    "Panadura location" : "Kalutara",
+    "Panadura num" : "021 2 263 266"
+    ,
+    "Pointpedro location" : "Northern",
+    "Pointpedro num" : "021 2 263 266"
+    ,
+    "Puttalam location" : "Wayamba",
+    "Puttalam num" : "032 2 265 217"
+    ,
+    "Rambukkana location" : "Sabaragamuwa",
+    "Rambukkana num" : "035 2 265 239"
+    ,
+    "Rathmalana location" : "Colombo",
+    "Rathmalana num" : "011 7 706 440"
+    ,
+    "Rathnapura location" : "Sabaragamuwa",
+    "Rathnapura num" : "045 2 222 281"
+    ,
+    "Theldeniya location" : "Kandy",
+    "Theldeniya num" : "081 2 374 287"
+    ,
+    "Tangalle location" : "Southern",
+    "Tangalle num" : "047 2 240 282"
+    ,
+    "Thalangama location" : "Colombo",
+    "Thalangama num" : "011 2 862 317"
+    ,
+    "Trincomalee location" : "Eastern",
+    "Trincomalee num" : "026 2 222 201"
+    ,
+    "Thanamalwila location" : "Uva",
+    "Thanamalwila num" : "047 2 285 081"
+    ,
+    "Ududumbara location" : "Kandy",
+    "Ududumbara num" : "055 2 257 181"
+    ,
+    "Udugama location" : "Southern",
+    "Udugama num" : "091 2 285 081"
+    ,
+    "Udahamulla location" : "Colombo",
+    "Udahamulla num" : "011 7 706 480"
+    ,
+    "Valaichchenai location" : "Eastern",
+    "Valaichchenai num" : "065 2 257 314"
+    ,
+    "Vavniya location" : "Northern",
+    "Vavniya num" : "024 2 222 181"
+    ,
+    "Wattegama location" : "Kandy",
+    "Wattegama num" : "081 2 476 243"
+    ,
+    "Walapane location" : "Nuwara-Eliya",
+    "Walapane num" : "052 2 279 181"
+    ,
+    "Wennappuwa location" : "Wayamba",
+    "Wennappuwa num" : "031 2 255 281"
+    ,
+    "Wariyapola location" : "Wayamba",
+    "Wariyapola num" : "037 2 267 242"
+    ,
+    "Walisara location" : "Gampaha",
+    "Walisara num" : "011 2 956 022"
+    ,
+    "Wellawaya location" : "Uva",
+    "Wellawaya num" : "055 2 27 48 81"
+    ,
+    "Yatinuwara location" : "Kandy",
+    "Yatinuwara num" : "081 2 571 235"
+
+    
+
+    
+    
+   
+    
+
+}
